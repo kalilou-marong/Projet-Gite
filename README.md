@@ -24,3 +24,31 @@ MySQL : Une base de données relationnelle pour stocker et gérer les informatio
 HTML/CSS : Les langages standard pour la structure et la mise en page du site.
 
 JavaScript : Utilisé pour les interactions côté client, garantissant une expérience utilisateur dynamique.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Welcome to the gite reservation site project
+This exciting project marks the convergence between our love for travel and our commitment to web development. Our PHP gite booking site offers a user-friendly and intuitive platform for travelers looking for a scenic getaway and for gite owners wishing to share their unique spaces.
+
+Key features
+Our PHP gite booking site comes with a full range of features to meet the needs of all users:
+
+Easy Search: Travelers can search for B&Bs based on specific criteria such as destination, stay dates and number of people.
+
+Detailed Viewing: Each lodge is featured with attractive images, a detailed description, included amenities and reviews from other travellers.
+
+Online Bookings: Users can book their chosen gite with just a few clicks, selecting their dates and making payment securely online.
+
+Owner's area: Gite owners can create an account, add advertisements for their gites, manage availability and track reservations.
+
+Booking Management: Registered users can view their booking history, check details of upcoming stays and leave reviews after checkout.
+
+Technologies Used
+Our gite booking site relies on a combination of robust technologies to deliver a smooth and secure experience:
+
+PHP: The main programming language for backend logic and data management.
+
+MySQL: A relational database for storing and managing information about lodges, users and bookings.
+
+HTML/CSS: Standard languages ​​for the structure and layout of the site.
+
+JavaScript: Used for client-side interactions, ensuring a dynamic user experience.
